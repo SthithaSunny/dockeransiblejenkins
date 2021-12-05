@@ -1,2 +1,2 @@
 [dev]
-172.31.5.64 
+172.31.5.64 ansible_user=centos 
